@@ -1,0 +1,33 @@
+@font-face {
+  font-family: RetroGaming;
+  src: url("../assets/Retro\ Gaming.ttf");
+}
+
+@import "../../node_modules/nes.css/css/nes.css";
+
+
+#app {
+  font-family: RetroGaming;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+button {
+  font-family: RetroGaming;
+  image-rendering: pixelated;
+}
+
+.text--red {
+  color: rgb(220, 20, 60)
+}
+.text--blue {
+  color: rgb(30, 144, 255)
+}
+.text--white {
+  color: rgb(255, 250, 240)	
+}
+.text--black {
+  color: rgb(0, 0, 0)
+}

@@ -1,4 +1,4 @@
-# tic-tac-toe-ui2
+# tic-tac-toe-ui
 
 ## Project setup
 ```
